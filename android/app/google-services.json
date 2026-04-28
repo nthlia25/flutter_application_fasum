@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063386889599",
+    "project_id": "prjpab2-si61-2327240029",
+    "storage_bucket": "prjpab2-si61-2327240029.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063386889599:android:db56e6ff35a641286fae4a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_fasum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRfJLutUZdqTpNCi6Y8-DU_KaJpWsg8Fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
